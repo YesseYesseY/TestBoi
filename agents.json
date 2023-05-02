@@ -1,0 +1,54 @@
+{
+    "Duelist": [
+        "Jett",
+        "Neon",
+        "Raze",
+        "Phoenix",
+        "Yoru",
+        "Reyna"
+    ],
+    "Controller": [
+        "Brimstone",
+        "Astra",
+        "Viper",
+        "Harbor",
+        "Omen"
+    ],
+    "Sentinel": [
+        "Cypher",
+        "Killjoy",
+        "Chamber",
+        "Sage"
+    ],
+    "Initiator": [
+        "Fade",
+        "Sova",
+        "Breach",
+        "Skye",
+        "Gekko",
+        "KAY/O"
+    ],
+    "None": [
+        "Jett",
+        "Neon",
+        "Raze",
+        "Phoenix",
+        "Yoru",
+        "Reyna",
+        "Brimstone",
+        "Astra",
+        "Viper",
+        "Harbor",
+        "Omen",
+        "Cypher",
+        "Killjoy",
+        "Chamber",
+        "Sage",
+        "Fade",
+        "Sova",
+        "Breach",
+        "Skye",
+        "Gekko",
+        "KAY/O"
+    ]
+}
