@@ -1,13 +1,13 @@
 import discord
 import os
-import riot
+import random_agents
 from discord import app_commands
 
 intents = discord.Intents.default()
 client = discord.Client(intents=intents)
 command_tree = app_commands.CommandTree(client)
 
-command_tree.add_command(riot.random_agent)
+command_tree.add_command(random_agents.random_agent)
 
 @client.event
 async def on_ready():
